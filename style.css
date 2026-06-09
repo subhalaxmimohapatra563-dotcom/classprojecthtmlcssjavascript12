@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 20px;
+    }
+}
